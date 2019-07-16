@@ -18,9 +18,10 @@ To run a container from this image, run this command:
 ```
 make run
 ```
+When you exit, the container is automatically removed.
 
 ## How to Clean Up
-To remove both the local container and image, run this command:
+To remove container image, run this command:
 ```
 make clean
 ```
