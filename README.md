@@ -1,6 +1,6 @@
 # Debian 10 (Buster)
 
-[![Build Status](https://travis-ci.org/strongbrent/docker-debian10-testuser.svg?branch=master)](https://travis-ci.org/strongbrent/docker-debian10-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/automated/strongbrent/docker-debian10-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian10-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/build/strongbrent/debian10-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian10-testuser/builds)
+[![Build Status](https://travis-ci.org/strongbrent/docker-debian10-testuser.svg?branch=master)](https://travis-ci.org/strongbrent/docker-debian10-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/automated/strongbrent/docker-debian10-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian10-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/build/strongbrent/docker-debian10-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian10-testuser/builds)
 
 ## Background
 Stock Debian 10 (Buster) Docker image with a default user for automation testing.
