@@ -21,7 +21,7 @@ make run
 When you exit, the container is automatically removed.
 
 ## How to Clean Up
-To remove container image, run this command:
+To remove the container image, run this command:
 ```
 make clean
 ```
