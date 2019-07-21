@@ -23,6 +23,7 @@ RUN echo "testuser   ALL=(ALL:ALL) NOPASSWD: ALL" > /etc/sudoers
 
 # Switch to testuser
 USER testuser
+ENV USER testuser
 ENV HOME /home/testuser
 
 # Change working directory
