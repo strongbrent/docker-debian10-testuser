@@ -13,6 +13,7 @@ RUN apt-get update \
         wget \
         ca-certificates \
         aptitude \
+        lsb-release \
     && rm -Rf /var/lib/apt/lists/* \
     && rm -Rf /usr/share/doc && rm -Rf /usr/share/man \
     && apt-get clean
